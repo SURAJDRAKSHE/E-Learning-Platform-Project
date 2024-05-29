@@ -1,5 +1,5 @@
 # E-Learning-Platform-Project
-Live Site : http://127.0.0.1:5500/home.html
+Live Site :  https://stirring-cuchufli-73eeab.netlify.app/
 
 E-Learning Platform Project Report---
 Project Overview:
